@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Problem 1
-This code implements the nonlinear functional mixed volterra-Fredholm Equation 
+This code implements the Nonlinear Fredholm Integral Equations with Abitrary Kernel 
 given as:
-u(x) = g(x) + f(x, \int \int k(t, y, u(y))dydt  )
+u(x) = g(x) + \int_{y=a}^x k(t, y, u(y))dy,  x \in [a, b].
 @author: Chinedu Nwaigwe
 """
 

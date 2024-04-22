@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-This code solves the following nonlinear functional mixed volterra-Fredholm Equations:
-u(x) = g(x) + f(x, \int \int k(t, y, u(y))dydt  )
-@author: chinedu
+This code uses the Solver Ishikawa Iteration to solve Nonlinear Fredholm Integral Equations with Abitrary Kernels.
+@author: Dr Chinedu Nwaigwe  (Associate Professor of Applied Mathematics and Scientific Computing)
+Date:    2023
 """
 
 from solver import *;  #fixed-point solver

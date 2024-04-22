@@ -3,18 +3,12 @@
 """
 This code calculates the experimental order of convergence (EOC) of computed solutions.
 A key reference material is: https://www.grc.nasa.gov/www/wind/valid/tutorial/spatconv.html
-@author: chinedu
+@author: Dr Chinedu Nwaigwe  (Associate Professor of Applied Mathematics and Scientific Computing)
+Date:    2023
 """
 
 import numpy as np;
 
-
-'''
-Solver class: name = nwaigwe2022Solver; 
-     Constructor: inputs - problem, grid
-     Variables: problem, grid, h.
-     Functions: assemble(), solve(), compute();
-'''
 
 
 #%% This function computes the EOCs if the problem has exact solution

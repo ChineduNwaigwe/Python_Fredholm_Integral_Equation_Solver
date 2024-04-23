@@ -4,6 +4,7 @@
 This code uses the Solver Ishikawa Iteration to solve Nonlinear Fredholm Integral Equations with Abitrary Kernels.
 @author: Dr Chinedu Nwaigwe  (Associate Professor of Applied Mathematics and Scientific Computing)
 Date:    2023
+Email:   nwaigwe.chinedu@ust.edu.ng; nedunwaigwe@gmail.com; nwaigwe.c@ufs.ac.za
 """
 
 from solver import *;  #fixed-point solver

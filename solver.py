@@ -2,6 +2,7 @@
 A Solver Based on Ishikawa Iteration for Nonlinear Fredholm Integral Equations with Abitrary Kernels.
 Author: Dr Chinedu Nwaigwe  (Associate Professor of Applied Mathematics and Scientific Computing)
 Date:   2023
+Email:   nwaigwe.chinedu@ust.edu.ng; nedunwaigwe@gmail.com; nwaigwe.c@ufs.ac.za
 '''
 import numpy as np;
 import numpy.linalg as la #for solve() and norm

@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 This code calculates the experimental order of convergence (EOC) of computed solutions.
-A key reference material is: https://www.grc.nasa.gov/www/wind/valid/tutorial/spatconv.html
 @author: Dr Chinedu Nwaigwe  (Associate Professor of Applied Mathematics and Scientific Computing)
 Date:    2023
+Email:   nwaigwe.chinedu@ust.edu.ng; nedunwaigwe@gmail.com; nwaigwe.c@ufs.ac.za
 """
 
 import numpy as np;

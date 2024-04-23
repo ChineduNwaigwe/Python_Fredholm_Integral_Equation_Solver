@@ -5,6 +5,7 @@ This code implements the Nonlinear Fredholm Integral Equations with Abitrary Ker
 given as:
 u(x) = g(x) + \int_{y=a}^x k(t, y, u(y))dy,  x \in [a, b].
 @author: Chinedu Nwaigwe
+Email:   nwaigwe.chinedu@ust.edu.ng; nedunwaigwe@gmail.com; nwaigwe.c@ufs.ac.za
 """
 
 import numpy as np;
